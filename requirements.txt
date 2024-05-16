@@ -1,1 +1,1 @@
-import pandas
+pymongo==4.7.2
